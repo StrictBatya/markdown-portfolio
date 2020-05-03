@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+* Sweet home Alabama
+  * Sweet home Alabama
+
+1. Sweet home Alabama
+1. Sweet home Alabama
+   1. Sweet home Alabama
+   1. Sweet home Alabama
+
+:+1:
+
+- [ ] - Sweet home Alabama
